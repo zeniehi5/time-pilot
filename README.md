@@ -28,12 +28,14 @@ Time-Pilot is a productivity dashboard that connects **time tracking**, **goal-o
 
 ## Repository Structure
 
+```
 time-pilot/
 ├─ frontend/
 ├─ backend/
 ├─ infra/
 ├─ docs/
 └─ .github/
+```
 
 ## Getting Started (Local)
 
